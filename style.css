@@ -1,0 +1,32 @@
+body {
+  background-color: #FFF3E0;
+}
+
+nav {
+  font-family: Verdana;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  text-align: center;
+}
+
+h3 {
+  font-family: Verdana;
+  color: gray;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+p {
+  font-family: Verdana;
+  text-align: center;
+}
